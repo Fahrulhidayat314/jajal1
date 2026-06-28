@@ -1,0 +1,6 @@
+{
+  "name": "Portal Resmi Kelurahan Ciptomulyo",
+  "description": "Website resmi Kelurahan Ciptomulyo, Kota Malang. Modern, mobile-first, informatif, dan memudahkan layanan administrasi warga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
